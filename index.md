@@ -1,8 +1,25 @@
-## Welcome to GitHub Pages
+## You Should `Not` Be Seeing This
 
-You can use the [editor on GitHub](https://github.com/ValerieGiesen/valerie-s-first/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Valerie **never** thought she would be interested in coding. She managed high-school maths alright, 
+but really got into languages at school. She has studied Latin, Arabic, English, Spanish, French and, 
+most usefully, Ancient Greek. 
+She is also an anthropologist, baking enthusiast and editor.
+ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Lake Geneva](https://img.myswitzerland.com/mys/n64493/images/buehne/raderoofgenevetourisme_oliviermiche-12.jpg)
+
+She currently lives in Geneva where she questions the philosophical and practical merits of [Weber's Protestant Ethic](https://moderntheories.wordpress.com/2012/09/13/max-weber-the-protestant-ethic-and-the-spirit-of-capitalism/) at the shores of beautiful Lake Geneva, in the heartland of Calvinism. 
+
+### More to the point, here is a `list of reasons` Valerie would like to learn how to code:
+
+1. To bring more concrete 'know-how' to social justice and political work.
+2. For the love of learning languages.
+3. To better understand the impact of (future) technology of on our lives.
+4. For the love of making things, fiddling around, solving problems.
+
+
+
+
 
 ### Markdown
 
